@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Multimo1-MqiZ.aternos.me:36683",
+    "ip": "Multimo1-MqiZ.aternos.me",
     "port": 36683,
     "version": "",
     "try-creative": false
